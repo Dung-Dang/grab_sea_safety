@@ -5,7 +5,8 @@ Submission for Grab AI challenge
 To make prediction, the steps are as followed:
 
 - Ensure these packages are available: numpy, pandas, keras, tensorflow, sklearn, dill, joblib, xgboost, hyperopt, random, datetime, scipy, . All of the packages can be installed by: pip install <package_name>
-- Download the repository
+- Download and extract the repository
+- From https://bit.ly/2IMXYjl, download "final_knn_model.pkl", and paste it inside the "models" folder.
 - Open the notebook "Grab, Safety Challenge - Prediction.ipynb" via Jupyter Notebook, paste the file location into test_features_link variable (the format should have front slash "/", for example: C:/Data), and run the cell.
 - Afterward, the "safety_predictions.csv" will be created. The process might take a few minutes.
 
