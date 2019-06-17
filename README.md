@@ -34,7 +34,8 @@ Key features involved:
 - Change in bearing: assume that bearing change is always below 180 degree. For example, the change of bearing from 2 degree to 359 degree is 3 degree, instead of 357 degree.
 - Total acceleration and total gyro, based on Pythagorean formula.
 - Rolling mean of various measures.
-- Movement speed during turning.
+- Movement speed during turning to the left/right.
+- Change of acceleration and speed over time. 
 - Measurements of distribution shapes: mean, median, mode, skewness, kurtosis, semi standard deviation, mean extreme values.
 - Percentage of faulty measurements, such as percentage of extreme accuracy, percentage of negative speed records, etc.
 
