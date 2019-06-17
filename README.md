@@ -6,7 +6,7 @@ To make prediction, the steps are as followed:
 
 - Ensure these packages are available: numpy, pandas, keras, tensorflow, sklearn, dill, joblib, xgboost, hyperopt, random, datetime, scipy, . All of the packages can be installed by: pip install <package_name>
 - Download the repository
-- Open the notebook "Grab, Safety Challenge - Prediction.ipynb" via Jupyter Notebook, and paste the file location into test_features_link variable.
+- Open the notebook "Grab, Safety Challenge - Prediction.ipynb" via Jupyter Notebook, paste the file location into test_features_link variable, and run the cell.
 - Afterward, the "safety_predictions.csv" will be created. The process might take a few minutes.
 
 <br/>
